@@ -17,3 +17,7 @@ con.setRequestProperty("X-Naver-Client-Secret", "Input your Client Secret")
 ## 스크린샷 / Screenshot
 <img src="https://raw.githubusercontent.com/DarkTornado/PapagoApiExample/master/Screenshot_1.png"><br><br>
 <img src="https://raw.githubusercontent.com/DarkTornado/PapagoApiExample/master/Screenshot_2.png"><br><br>
+
+## 라이선스 / License
+* [BSD 3-Clause](LICENSE)
+* 어차피 간단한 예제니까 양심것 마음것 알아서 쓰세여 (>_<)
